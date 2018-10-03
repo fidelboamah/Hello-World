@@ -22,5 +22,7 @@ I am also a **marketer**. I have been involved in work that revolves around digi
 - fidelboamah@gmail.com
 - Instagram: @fidelboamah
 
-https://github.com/fidelboamah/Hello-World/blob/master/Logo.png
+>Below you can find my resume and professional logo!
 
+https://github.com/fidelboamah/Hello-World/blob/master/Logo.png
+https://github.com/fidelboamah/Hello-World/blob/master/Resume%CC%81.pdf
