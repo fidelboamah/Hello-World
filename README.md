@@ -22,3 +22,5 @@ I am also a **marketer**. I have been involved in work that revolves around digi
 - fidelboamah@gmail.com
 - Instagram: @fidelboamah
 
+https://github.com/fidelboamah/Hello-World/blob/master/Logo.png
+
